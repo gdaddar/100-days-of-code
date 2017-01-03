@@ -44,6 +44,7 @@
 4. ["Salt essentials"](https://www.safaribooksonline.com/library/view/salt-essentials/9781491914427/)
 5. ["Ansible up and running"](https://www.safaribooksonline.com/library/view/ansible-up-and/9781491915318/)
 6. ["Docker cookbook"](https://www.safaribooksonline.com/library/view/docker-cookbook/9781783984862/)
+7. ["Mastering Ansible"](https://www.safaribooksonline.com/library/view/mastering-ansible/9781784395483/)
 
 ### Video
 1. ["Crockford on Javascript"](https://www.youtube.com/playlist?list=PL7664379246A246CB)
