@@ -30,6 +30,10 @@
 1. "Professional Node.js" by Teixeira
 2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - available online (free) & as a paperback
 3. "Mastering JavaScript" by Ved Antani
+4. ["Automate the boring stuff with Python" by Al Sweigart](https://automatetheboringstuff.com/)
+5. ["Test-driven development with Python, 2nd edition" by Harry J.W. Percival](https://www.safaribooksonline.com/library/view/test-driven-development-with/9781491958698/)
+6. ["Learn Python the hard way"](https://learnpythonthehardway.org/book/)
+7. ["Head first Python, 2nd edition" by Paul Berry](https://www.safaribooksonline.com/library/view/head-first-python/9781491919521/)
 
 ## Contents
 * [Rules](rules.md)
