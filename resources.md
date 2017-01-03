@@ -9,6 +9,11 @@
 
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
+2. [Python programming exercises](https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises.txt)
+3. [Best Python resources](https://www.fullstackpython.com/best-python-resources.html)
+4. [Web development - how to build a blog](https://www.udacity.com/course/web-development--cs253)
+5. [Python practice book](http://anandology.com/python-practice-book/index.html)
+
 
 ## Tools
 1. [cntr](https://github.com/nsgonultas/cntr): A command line day counter to track your progress easily
