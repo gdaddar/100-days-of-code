@@ -1,11 +1,11 @@
 # 100 Days Of Code - Log
-### Day 0: December 30, 2017 (Example 1)
+### Day 1: January 3, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Started with simple Python programs
 
-**Thoughts:** 
+**Thoughts:** Start small, stay small
 
-**Link to work:** [App](http://www.example.com)
+**Link to work:** [Added two Python files](https://github.com/gdaddar/100-days-of-code/commit/5fcd74adcb7d6f78eddf3f9cbca30dcfcd283a20)
 
 
 
