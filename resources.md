@@ -34,6 +34,20 @@
 5. ["Test-driven development with Python, 2nd edition" by Harry J.W. Percival](https://www.safaribooksonline.com/library/view/test-driven-development-with/9781491958698/)
 6. ["Learn Python the hard way"](https://learnpythonthehardway.org/book/)
 7. ["Head first Python, 2nd edition" by Paul Berry](https://www.safaribooksonline.com/library/view/head-first-python/9781491919521/)
+8. ["Learning web app development" by Semmy Purewal](https://www.safaribooksonline.com/library/view/learning-web-app/9781449371388/)
+9. ["Professional Javascript for web developers" by Nicholas C. Zakas](https://www.safaribooksonline.com/library/view/professional-javascript-for/9781118026694/)
+
+### Devops
+1. ["Devops for web development"](https://www.safaribooksonline.com/library/view/devops-for-web/9781786465702/)
+2. ["The complete Jenkins course for Developers and Devops"](https://www.udemy.com/the-complete-jenkins-course-for-developers-and-devops/)
+3. ["Practical DevOps"](https://www.safaribooksonline.com/library/view/practical-devops/9781785882876/)
+4. ["Salt essentials"](https://www.safaribooksonline.com/library/view/salt-essentials/9781491914427/)
+5. ["Ansible up and running"](https://www.safaribooksonline.com/library/view/ansible-up-and/9781491915318/)
+6. ["Docker cookbook"](https://www.safaribooksonline.com/library/view/docker-cookbook/9781783984862/)
+
+### Video
+1. ["Crockford on Javascript"](https://www.youtube.com/playlist?list=PL7664379246A246CB)
+2. ["Beginning programming with Javascript" by Semmy Purewal](https://www.safaribooksonline.com/library/view/beginning-programming-with/9781491917824/)
 
 ## Contents
 * [Rules](rules.md)
