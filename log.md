@@ -8,35 +8,19 @@
 **Link to work:** [Added two Python files](https://github.com/gdaddar/100-days-of-code/commit/5fcd74adcb7d6f78eddf3f9cbca30dcfcd283a20)
 
 
+### Day 2: January 4, 2017
 
+**Today's Progress**: Two more simple Python programs
 
-## TO BE DELETED
-### Day 0: February 30, 2016 (Example 1)
-##### (to be deleted)
+**Thoughts:** Start small, stay small
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Link to work:** [Added dictionary.py and listAndTuple.py](https://github.com/gdaddar/100-days-of-code/commit/b42adc80a2a9b64696692d8182bdb57d65fed62e)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 3: January 6, 2017
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Today's Progress**: One more simple Python program
 
-### Day 0: February 30, 2016 (Example 2)
-##### (to be deleted)
+**Thoughts:** Start small, stay small
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Link to work:** [Added simple_class.py](https://github.com/gdaddar/100-days-of-code/commit/8a13a3f868c4f83a1969235e4db29b0d3b0581e9)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-##### (to be deleted)
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
