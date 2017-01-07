@@ -24,3 +24,10 @@
 
 **Link to work:** [Added simple_class.py](https://github.com/gdaddar/100-days-of-code/commit/8a13a3f868c4f83a1969235e4db29b0d3b0581e9)
 
+### Day 4: January 7, 2017
+
+**Today's Progress**: Added 2 more files
+
+**Thoughts:** Start small, stay small
+
+**Link to work:** [Added 2 more files](https://github.com/gdaddar/100-days-of-code/commit/d1a5248da7b76e87a7ffc27890615052ab9dec32)
