@@ -31,3 +31,12 @@
 **Thoughts:** Start small, stay small
 
 **Link to work:** [Added 2 more files](https://github.com/gdaddar/100-days-of-code/commit/d1a5248da7b76e87a7ffc27890615052ab9dec32)
+
+### Day 5: January 8, 2017
+
+**Today's Progress**: Added 3 more files
+
+**Thoughts:** Start small, stay small
+
+**Link to work:** [Added 3 more files](https://github.com/gdaddar/100-days-of-code/commit/c8482db81d9901229590e37c3d03fb57af2482be)
+
